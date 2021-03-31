@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Start a Micro-Influencer campaign in five minutes or less.
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Scale your influencer campaigns.
     actions:
       - label: Learn More
         url: /features
