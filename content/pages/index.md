@@ -103,7 +103,7 @@ seo:
     - name: 'twitter:title'
       value: Shoutouts.cc
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: Run scaled micro-influence campaigns in five minutes
     - name: 'twitter:image'
       value: /images/marvelous-daffodil.png
       relativeUrl: true
