@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Scaled Micro-influencer campaigns in five minutes or less
-    subtitle: 'Fastest way to '
+    subtitle: Fastest way to start an influenc
     actions:
       - label: Learn More
         url: /features
