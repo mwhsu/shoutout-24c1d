@@ -2,7 +2,7 @@
     "title": "Stackbit Starter Theme",
     "path_prefix": "/",
     "header": {
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Features",
