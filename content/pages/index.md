@@ -11,7 +11,7 @@ sections:
       - label: Get Started
         url: /contact
         style: secondary
-    align: left
+    align: right
     image: images/Screen Shot 2021-03-31 at 16.29.51.png
     image_alt: Shoutouts.cc - scaled micro-influencer campaigns
     image_position: right
