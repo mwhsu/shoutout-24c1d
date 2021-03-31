@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Scaled Micro-influencer campaigns in five minutes or less
-    subtitle: Fastest way to start an influenc
+    subtitle: Fastest way to start an influencer marketing campaign
     actions:
       - label: Learn More
         url: /features
