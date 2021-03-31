@@ -83,7 +83,7 @@ sections:
     background_color: gray
 seo:
   title: Shoutouts
-  description: The only micro-influencer Campaign Platform
+  description: Run scaled micro-influencer campaigns in five minutes or less
   extra:
     - name: 'og:type'
       value: website
