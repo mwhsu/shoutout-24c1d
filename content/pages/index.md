@@ -83,7 +83,7 @@ sections:
     background_color: gray
 seo:
   title: Shoutouts
-  description: The Micro-Creator Campaign Platform
+  description: The only micro-influencer Campaign Platform
   extra:
     - name: 'og:type'
       value: website
