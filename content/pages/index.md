@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/hero.svg
+    image: images/Screen Shot 2021-03-31 at 16.29.51.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
