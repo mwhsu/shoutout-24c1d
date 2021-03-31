@@ -95,7 +95,7 @@ seo:
       value: The preview of the Starter theme
       keyName: property
     - name: 'og:image'
-      value: /images/Screen%20Shot%202021-03-31%20at%2016.29.51.png
+      value: /images/Screen%20Shot%202021-03-31%20at%2016.30.46.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
