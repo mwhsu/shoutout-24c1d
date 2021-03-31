@@ -92,7 +92,7 @@ seo:
       value: Shoutouts.cc
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: Run scaled micro-influence campaigns in five minutes
       keyName: property
     - name: 'og:image'
       value: /images/Screen%20Shot%202021-03-31%20at%2016.30.46.png
