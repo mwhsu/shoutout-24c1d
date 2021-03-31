@@ -83,7 +83,7 @@ sections:
     background_color: gray
 seo:
   title: Shoutouts
-  description: The preview of the Starter theme
+  description: The Micro-Creator Campaign Platform
   extra:
     - name: 'og:type'
       value: website
