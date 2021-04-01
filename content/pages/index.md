@@ -5,7 +5,7 @@ sections:
     title: Scale Micro-influencer campaigns in five minutes or less
     subtitle: >-
       Shoutouts is the fastest way to start your micro-influencer campaign. We
-      recruit and manage micro-influencers to jump-start any campaign.
+      jump-start any campaign by recruiting and managing influencers for you.
     actions:
       - label: Start a campaign
         url: /contact
