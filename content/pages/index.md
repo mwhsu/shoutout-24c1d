@@ -69,7 +69,7 @@ sections:
         align: left
         image: images/shoutout Logo (2).png
         image_alt: Feature 1 placeholder image
-        image_position: left
+        image_position: right
         actions: []
   - title: Start your first campaign now
     actions:
