@@ -67,6 +67,9 @@ sections:
         style: primary
     has_background: true
     background_color: gray
+  - title: lorem-ipsum
+    features: []
+    type: features_section
 seo:
   title: Shoutouts
   description: Run scaled micro-influencer campaigns in five minutes or less
