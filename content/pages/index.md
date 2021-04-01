@@ -63,7 +63,7 @@ sections:
         actions: []
       - title: 'Our network, Your audience'
         content: >
-          We built a Micro-influencer network ready to shoutout their favorite
+          We built a micro-influencer network ready to shoutout their favorite
           brands. Empower your fans to create authentic content for your brand
           and products.
         align: left
