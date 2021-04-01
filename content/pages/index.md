@@ -26,8 +26,8 @@ sections:
     features:
       - title: Create a Shoutouts Campaign
         content: >
-          ##### Start your campaign by filling out the simple wizard letting us
-          know exactly what you need - Goals, Budget, Timeline and Target
+          Start your campaign by filling out the simple wizard letting us know
+          exactly what you need - Goals, Budget, Timeline and Target
           Demographic.
         align: left
         image: images/nathan-dumlao-QvM7SCMFtVc-unsplash.jpg
