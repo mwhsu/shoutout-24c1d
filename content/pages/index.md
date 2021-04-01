@@ -30,7 +30,7 @@ sections:
           exactly what you need - Goals, Budget, Timeline and Target
           Demographic. 
         align: left
-        image: images/feature.svg
+        image: images/nathan-dumlao-QvM7SCMFtVc-unsplash.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
