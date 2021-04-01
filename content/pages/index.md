@@ -49,7 +49,7 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
-        title: Micro-influencers drive high engagement
+        title: We specialize in micro-influencers
       - title: Get up and running quickly
         content: >
           Five minutes or less. No joke. One form and you're ready to go. We are
