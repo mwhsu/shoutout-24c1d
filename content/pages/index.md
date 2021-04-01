@@ -20,7 +20,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: Why Shoutouts
+    title: How does this work?
     features:
       - title: Feature 1
         content: >-
