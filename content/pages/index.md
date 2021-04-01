@@ -71,7 +71,7 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
-  - title: Start your campaign now
+  - title: Start your first campaign now
     actions:
       - label: Get Started
         url: '#'
