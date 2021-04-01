@@ -71,6 +71,7 @@ sections:
     team:
       - content/data/team/person-k4id0fq63.json
       - content/data/team/person-rpu5rtz8j.json
+      - content/data/team/person-bsua3x0pv.json
     type: team_section
 seo:
   title: Shoutouts
