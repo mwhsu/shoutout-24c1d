@@ -5,7 +5,7 @@ sections:
     title: Scaled Micro-influencer campaigns in five minutes or less
     subtitle: Fastest way to start an influencer marketing campaign
     actions:
-      - label: Get Started
+      - label: Start a campaign
         url: /contact
         style: secondary
     align: left
