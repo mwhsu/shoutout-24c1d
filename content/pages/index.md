@@ -26,8 +26,10 @@ sections:
     features:
       - title: Create a Shoutouts Campaign
         content: >
-          Create a campaign by letting us know exactly what you need - Goals,
-          Budget, Timeline and Target Demographic.
+          Start your campaign by filling out the simple wizard letting us know
+          exactly what you need - Goals, Budget, Timeline and Target
+          Demographic. It's ok if you don't have all your details. We can always
+          follow-up afterwards.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
