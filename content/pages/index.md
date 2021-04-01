@@ -58,9 +58,7 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
-        title: >-
-          Relax, while we recruit micro-influencers and manage your campaign
-          start to finish
+        title: Micro
       - title: Review and celebrate the results
         content: >
           Watch your branded content come through and review the key metrics for
