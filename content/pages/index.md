@@ -49,7 +49,7 @@ sections:
         image_position: right
         actions: []
       - content: >
-          Micro-influencers typically drive more ROI than larger
+          Micro-influencers typically drive higher ROI than larger
           general-audience influencers. By creating micro-influencer campaigns
           at scale, you can generate a larger buzz by promoting through a large
           number of influencers in one campaign.
