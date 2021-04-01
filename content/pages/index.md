@@ -41,10 +41,10 @@ sections:
           Relax, while we recruit micro-influencers and manage your campaign
           start to finish
         content: >
-          Using our internal micro-influencer network and our partner networks,
-          we quickly recruit influencers interested in participating in your
-          campaign. We handle all recruitment, product fulfillment, post
-          validation, and payments. 
+          ###### Using our internal micro-influencer network and our partner
+          networks, we quickly recruit influencers interested in participating
+          in your campaign. We handle all recruitment, product fulfillment, post
+          validation, and payments.
         align: left
         image: images/christiann-koepke-vCaTPkYjWOo-unsplash.jpg
         image_alt: Feature 2 placeholder image
