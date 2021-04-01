@@ -20,7 +20,7 @@ sections:
       turpis in eu mi bibendum neque egestas.
   - type: cta_section
     title: Join the Team
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: We are hiring!
     actions:
       - label: Contact Us
         url: /contact
