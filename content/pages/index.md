@@ -73,7 +73,7 @@ sections:
   - title: Get started today
     subtitle: lorem-ipsum
     actions:
-      - label: lorem-ipsum
+      - label: Get Started
         url: '#'
         style: primary
         new_window: false
