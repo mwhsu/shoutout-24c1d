@@ -38,7 +38,7 @@ sections:
   - type: features_section
     title: Why Shoutouts?
     features:
-      - title: Create a Shoutouts Campaign
+      - title: Turnkey solution
         content: >
           Start your campaign by filling out the simple wizard letting us know
           exactly what you need - Goals, Budget, Timeline and Target
