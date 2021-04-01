@@ -22,7 +22,7 @@ sections:
   - type: features_section
     title: How does this work?
     features:
-      - title: We scale out a large
+      - title: Start a campaign
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
