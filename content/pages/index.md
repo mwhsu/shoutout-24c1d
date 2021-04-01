@@ -21,6 +21,12 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
+  - title: How Shoutouts Works
+    team:
+      - content/data/team/person-k4id0fq63.json
+      - content/data/team/person-rpu5rtz8j.json
+      - content/data/team/person-bsua3x0pv.json
+    type: team_section
   - type: features_section
     title: How does this work?
     features:
@@ -67,12 +73,6 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: How Shoutouts Works
-    team:
-      - content/data/team/person-k4id0fq63.json
-      - content/data/team/person-rpu5rtz8j.json
-      - content/data/team/person-bsua3x0pv.json
-    type: team_section
 seo:
   title: Shoutouts
   description: Run scaled micro-influencer campaigns in five minutes or less
