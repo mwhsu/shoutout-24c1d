@@ -59,7 +59,9 @@ sections:
         image_position: left
         actions: []
         title: Micro-influencers drive high engagement
-      - title: We partner with you to run a seamless micro-influencer brand campaign
+      - title: >-
+          We partner with you to run a seamless micro-influencer brand campaign
+          from start-to-finish.
         content: >
           Traditional agencies and platforms focus on campaign partnerships with
           large creators. We focus on driving impact through large campaigns
