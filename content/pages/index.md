@@ -24,7 +24,7 @@ sections:
     features:
       - title: Start a campaign
         content: |
-          Fill out a simple self-serve form
+          Get started today. 
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
