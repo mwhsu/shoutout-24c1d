@@ -58,9 +58,7 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
-        title: >-
-          Micro-influencers may have modest followers but they drive high
-          engagement
+        title: Micro-influencers drive high engagement
       - title: We partner with you to run a seamless micro-influencer brand campaign
         content: >
           Traditional agencies and platforms focus on campaign partnerships with
