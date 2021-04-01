@@ -47,10 +47,7 @@ sections:
         image: images/shoutout Logo (2).png
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - label: Get Started
-            url: /features
-            style: secondary
+        actions: []
       - content: >
           Using our internal micro-influencer network and our partner networks,
           we quickly recruit influencers interested in participating in your
