@@ -39,15 +39,6 @@ sections:
   - type: features_section
     title: Why Shoutouts?
     features:
-      - title: Get up and running quickly
-        content: >
-          Five minutes or less. No joke. One form and you're ready to go. We are
-          also available for any questions you may have.
-        align: left
-        image: images/shoutout Logo (2).png
-        image_alt: Feature 1 placeholder image
-        image_position: right
-        actions: []
       - content: >
           Micro-influencers typically drive higher ROI than larger
           general-audience influencers. By creating micro-influencer campaigns
@@ -59,6 +50,15 @@ sections:
         image_position: left
         actions: []
         title: Micro-influencers drive high engagement
+      - title: Get up and running quickly
+        content: >
+          Five minutes or less. No joke. One form and you're ready to go. We are
+          also available for any questions you may have.
+        align: left
+        image: images/shoutout Logo (2).png
+        image_alt: Feature 1 placeholder image
+        image_position: right
+        actions: []
       - title: >-
           We partner with you to run a seamless micro-influencer brand campaign
           from start-to-finish.
