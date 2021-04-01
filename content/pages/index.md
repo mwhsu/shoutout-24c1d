@@ -24,7 +24,7 @@ sections:
   - type: features_section
     title: How does this work?
     features:
-      - title: Create a shoutouts campaign
+      - title: Create a Shoutout campaign
         content: >
           Create a campaign by letting us know exactly what you need - Goals,
           Budget, Timeline and Target Demographic.
