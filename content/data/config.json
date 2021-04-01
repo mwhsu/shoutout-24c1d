@@ -29,7 +29,8 @@
             }
         ],
         "logo": "images/unique-sun.png",
-        "logo_alt": "Scaled Micro-influencer campaigns"
+        "logo_alt": "Scaled Micro-influencer campaigns",
+        "title": "SHOUTOUTS"
     },
     "footer": {
         "has_nav": true,
