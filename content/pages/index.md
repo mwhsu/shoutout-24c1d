@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Scale Micro-influencer campaigns in five minutes or less
-    subtitle: Fastest way to start an influencer marketing campaign
+    subtitle: >-
+      Fastest way to start your micro-influencer campaign and recruit creators
+      who love your brand.
     actions:
       - label: Start a campaign
         url: /contact
