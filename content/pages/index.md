@@ -72,7 +72,13 @@ sections:
         actions: []
   - title: Get started today
     subtitle: lorem-ipsum
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
     has_background: false
     background_color: white
     type: cta_section
