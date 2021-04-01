@@ -20,6 +20,7 @@ class MyDocument extends Document {
                     <ScriptTag src={withPrefix('js/page-load.js')}/>
                     <ScriptTag src={withPrefix('js/page-unload.js')}/>
                     <NextScript />
+                    <ScriptTag src={withPrefix('js/page-unload.js')}/>
                 </body>
             </Html>
         );
