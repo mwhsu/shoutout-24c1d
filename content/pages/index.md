@@ -47,7 +47,7 @@ sections:
           campaign. We handle all recruitment, product fulfillment, post
           validation, and payments. 
         align: left
-        image: images/feature.svg
+        image: images/christiann-koepke-vCaTPkYjWOo-unsplash.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
