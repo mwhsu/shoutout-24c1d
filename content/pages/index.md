@@ -71,7 +71,6 @@ sections:
         image_position: right
         actions: []
   - title: Get started today
-    subtitle: lorem-ipsum
     actions:
       - label: Get Started
         url: '#'
