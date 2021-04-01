@@ -21,9 +21,9 @@ class MyDocument extends Document {
                     <ScriptTag src={withPrefix('js/page-unload.js')}/>
                     <NextScript />
                     /** Start of Tawk.to Script **/
-                            <script type="text/javascript">
-                            var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-                            (function(){
+                        <script type="text/javascript">
+                        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+                        (function(){
                             s1=document.createElement("script");
                             s0=document.getElementsByTagName("script")[0];
                             s1.async=true;
