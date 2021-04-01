@@ -61,8 +61,9 @@ sections:
         title: Micro-influencers may have modest followers but they high engagement
       - title: We partner with you to run a seamless micro-influencer brand campaign
         content: >
-          Watch your branded content come through and review the key metrics for
-          your campaign.
+          Traditional agencies and platforms focus on campaign partnerships with
+          large creators. We focus on driving impact through large campaigns
+          comprised of hundreds of micro-influencers.
         align: left
         image: images/Screen Shot 2021-03-31 at 18.22.11.png
         image_alt: Feature 3 placeholder image
