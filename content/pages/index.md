@@ -59,7 +59,7 @@ sections:
         align: left
         image: images/shoutout Logo (2).png
         image_alt: Feature 1 placeholder image
-        image_position: right
+        image_position: left
         actions: []
       - title: >-
           We partner with you to run a seamless micro-influencer brand campaign
