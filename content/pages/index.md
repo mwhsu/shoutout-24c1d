@@ -44,7 +44,7 @@ sections:
           exactly what you need - Goals, Budget, Timeline and Target
           Demographic.
         align: left
-        image: images/diagonal-lines.svg
+        image: images/shoutout Logo (2).png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
