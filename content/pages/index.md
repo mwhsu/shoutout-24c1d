@@ -71,7 +71,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
-  - title: Start your first campaign now
+  - title: Got a Question? Just say Hi!
     actions:
       - label: Get Started
         url: '#'
