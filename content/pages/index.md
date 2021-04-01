@@ -9,7 +9,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/Screen Shot 2021-03-31 at 16.29.51.png
+    image: images/Screen Shot 2021-03-31 at 18.21.51.png
     image_alt: Shoutouts.cc - scaled micro-influencer campaigns
     image_position: right
     has_background: false
