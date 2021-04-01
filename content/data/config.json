@@ -46,14 +46,7 @@
             }
         ],
         "has_social": true,
-        "social_links": [
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "link",
-                "new_window": true
-            }
-        ],
+        "social_links": [],
         "content": "&copy; Shoutouts. All rights reserved."
     },
     "domain": "shoutouts.cc",
