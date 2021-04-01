@@ -68,7 +68,8 @@ sections:
     has_background: true
     background_color: gray
   - title: lorem-ipsum
-    team: []
+    team:
+      - content/data/team/person-k4id0fq63.json
     type: team_section
 seo:
   title: Shoutouts
