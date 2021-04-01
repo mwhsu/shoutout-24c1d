@@ -69,7 +69,7 @@ sections:
           Watch your branded content come through and review the key metrics for
           your campaign.
         align: left
-        image: images/feature.svg
+        image: images/Screen Shot 2021-03-31 at 18.22.11.png
         image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
