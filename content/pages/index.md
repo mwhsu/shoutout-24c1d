@@ -41,9 +41,8 @@ sections:
     features:
       - title: Get up and running quickly
         content: >
-          Start your campaign by filling out the simple wizard letting us know
-          exactly what you need - Goals, Budget, Timeline and Target
-          Demographic.
+          Five minutes or less. No joke. One form and you're ready to go. We are
+          also available for any questions you may have.
         align: left
         image: images/shoutout Logo (2).png
         image_alt: Feature 1 placeholder image
