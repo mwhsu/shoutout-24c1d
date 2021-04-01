@@ -24,7 +24,7 @@ sections:
   - type: features_section
     title: How does this work?
     features:
-      - title: Start a campaign
+      - title: Fill out the campaign wizard
         content: |
           Get started today. 
         align: left
