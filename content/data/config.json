@@ -17,7 +17,7 @@
             {
                 "label": "Get Started",
                 "url": "/contact",
-                "style": "secondary"
+                "style": "link"
             }
         ],
         "logo": "images/Screen Shot 2021-03-31 at 16.30.01.png",
