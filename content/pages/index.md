@@ -25,8 +25,9 @@ sections:
     title: How does this work?
     features:
       - title: Fill out the campaign wizard
-        content: |
-          Get started today. 
+        content: >
+          Create a campaign by letting us know exactly what you need. Budget,
+          Target Demographic, and goals.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
