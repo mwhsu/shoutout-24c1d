@@ -70,7 +70,7 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
-  - title: lorem-ipsum
+  - title: Get started today
     subtitle: lorem-ipsum
     actions: []
     has_background: false
