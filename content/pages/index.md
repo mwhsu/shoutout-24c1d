@@ -59,7 +59,7 @@ sections:
         image_position: left
         actions: []
         title: Micro-influencers may have modest followers but they high engagement
-      - title: Review and celebrate the results
+      - title: We partner with you to run a seamless micro-influencer brand campaign
         content: >
           Watch your branded content come through and review the key metrics for
           your campaign.
