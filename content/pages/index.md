@@ -27,6 +27,14 @@ sections:
       - content/data/team/person-rpu5rtz8j.json
       - content/data/team/person-bsua3x0pv.json
     type: team_section
+  - type: cta_section
+    title: Start your campaign today
+    actions:
+      - label: Get Started
+        url: /features
+        style: primary
+    has_background: true
+    background_color: gray
   - type: features_section
     title: How does this work?
     features:
@@ -65,14 +73,6 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions: []
-  - type: cta_section
-    title: Start your campaign today
-    actions:
-      - label: Get Started
-        url: /features
-        style: primary
-    has_background: true
-    background_color: gray
 seo:
   title: Shoutouts
   description: Run scaled micro-influencer campaigns in five minutes or less
