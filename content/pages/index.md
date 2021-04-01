@@ -68,7 +68,7 @@ sections:
   - type: cta_section
     title: Start your campaign today.
     actions:
-      - label: Learn More
+      - label: Get Started
         url: /features
         style: primary
     has_background: true
