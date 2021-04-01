@@ -38,10 +38,11 @@ sections:
             url: /features
             style: secondary
       - title: 'Relax, while we recruit and manage your campaign'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Using our internal micro-influencer network and our partners, we will
+          quickly recruit influencers interested in participating in your
+          campaign. We handle all recruitment, post validation, and payments. If
+          you need help with product fulfillment, we can also assist.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
