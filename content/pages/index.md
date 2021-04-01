@@ -69,7 +69,7 @@ sections:
         align: left
         image: images/Screen Shot 2021-03-31 at 18.22.11.png
         image_alt: Feature 3 placeholder image
-        image_position: right
+        image_position: left
         actions: []
   - title: Start your first campaign now
     actions:
