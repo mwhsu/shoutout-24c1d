@@ -37,7 +37,9 @@ sections:
           - label: Get Started
             url: /features
             style: secondary
-      - title: 'Relax, while we recruit and manage your campaign'
+      - title: >-
+          Relax, while we recruit creators and manage your campaign start to
+          finish
         content: >
           Using our internal micro-influencer network and our partners, we will
           quickly recruit influencers interested in participating in your
