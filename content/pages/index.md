@@ -60,7 +60,7 @@ sections:
         image_position: right
         actions: []
   - type: cta_section
-    title: Start your campaign today.
+    title: Start your campaign today
     actions:
       - label: Get Started
         url: /features
