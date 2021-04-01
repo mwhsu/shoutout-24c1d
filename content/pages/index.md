@@ -61,9 +61,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: left
         actions: []
-      - title: >-
-          We partner with you to run a seamless micro-influencer brand campaign
-          from start-to-finish.
+      - title: 'Our network, Your audience'
         content: >
           Traditional agencies and platforms focus on campaign partnerships with
           large creators. We focus on driving impact through large campaigns
