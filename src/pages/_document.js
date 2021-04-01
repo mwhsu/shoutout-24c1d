@@ -14,8 +14,6 @@ class MyDocument extends Document {
         return (
             <Html>
                 <Head />
-
-<!--End of Tawk.to Script-->
                 <body>
                     <Main />
                     <ScriptTag src={withPrefix('js/init.js')}/>
