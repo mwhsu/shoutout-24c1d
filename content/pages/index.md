@@ -73,7 +73,7 @@ sections:
         actions: []
   - title: Got a Question? Just say Hi!
     actions:
-      - label: Get Started
+      - label: Ask a question
         url: '#'
         style: primary
         new_window: false
