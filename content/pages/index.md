@@ -58,7 +58,7 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
-        title: Micro-influencers drive
+        title: Micro-influencers may have modest followers but they high engagement
       - title: Review and celebrate the results
         content: >
           Watch your branded content come through and review the key metrics for
