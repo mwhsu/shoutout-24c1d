@@ -5,5 +5,6 @@
     "last_name": "lorem-ipsum",
     "photo_alt": "lorem-ipsum",
     "bio": "Watch your branded content come through and review the key metrics for your campaign.\n",
-    "type": "person"
+    "type": "person",
+    "photo": "images/diagonal-lines.svg"
 }
