@@ -41,9 +41,11 @@ sections:
     features:
       - content: >
           Micro-influencers typically drive higher ROI than larger
-          general-audience influencers. By creating micro-influencer campaigns
-          at scale, you can generate a larger buzz by promoting through a large
-          number of influencers in one campaign.
+          general-audience influencers. Our product is focused on bringing on
+          micro-influencers who want to shoutout their favorite brands. By
+          creating micro-influencer campaigns at scale, you can generate a
+          larger buzz by promoting through a large number of micro-influencers
+          at the cost of only a few "mega-influencers".
         align: left
         image: images/Screen Shot 2021-03-31 at 18.22.11.png
         image_alt: Feature 2 placeholder image
