@@ -49,10 +49,10 @@ sections:
         image_position: right
         actions: []
       - content: >
-          Using our internal micro-influencer network and our partner networks,
-          we quickly recruit influencers interested in participating in your
-          campaign. We handle all recruitment, product fulfillment, post
-          validation, and payments.
+          Micro-influencers typically drive more ROI than larger
+          general-audience influencers. By creating micro-influencer campaigns
+          at scale, you can generate a larger buzz by promoting through a large
+          number of influencers in one campaign.
         align: left
         image: images/Screen Shot 2021-03-31 at 18.22.11.png
         image_alt: Feature 2 placeholder image
