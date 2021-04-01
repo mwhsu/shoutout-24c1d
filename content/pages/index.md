@@ -37,10 +37,7 @@ sections:
           - label: Get Started
             url: /features
             style: secondary
-      - title: >-
-          Relax, while we recruit micro-influencers and manage your campaign
-          start to finish
-        content: >
+      - content: >
           Using our internal micro-influencer network and our partner networks,
           we quickly recruit influencers interested in participating in your
           campaign. We handle all recruitment, product fulfillment, post
