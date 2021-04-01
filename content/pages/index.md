@@ -63,9 +63,9 @@ sections:
         actions: []
       - title: 'Our network, Your audience'
         content: >
-          Traditional agencies and platforms focus on campaign partnerships with
-          large creators. We focus on driving impact through large campaigns
-          comprised of hundreds of micro-influencers.
+          We built a Micro-influencer network ready to shoutout their favorite
+          brands. Empower your fans to create authentic content for your brand
+          and products.
         align: left
         image: images/Screen Shot 2021-03-31 at 18.22.11.png
         image_alt: Feature 3 placeholder image
