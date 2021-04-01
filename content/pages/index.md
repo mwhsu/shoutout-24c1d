@@ -49,7 +49,7 @@ sections:
         align: left
         image: images/Screen Shot 2021-03-31 at 18.22.11.png
         image_alt: Feature 2 placeholder image
-        image_position: left
+        image_position: right
         actions: []
         title: We specialize in micro-influencers
       - title: Get up and running quickly
