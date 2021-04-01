@@ -52,15 +52,6 @@ sections:
         image_position: right
         actions: []
         title: We specialize in micro-influencers
-      - title: Get up and running quickly
-        content: >
-          Five minutes or less. No joke. One form and you're ready to go. We are
-          also available for any questions you may have.
-        align: left
-        image: images/shoutout Logo (2).png
-        image_alt: Feature 1 placeholder image
-        image_position: left
-        actions: []
       - title: 'Our network, Your audience'
         content: >
           We built a micro-influencer network ready to shoutout their favorite
@@ -69,6 +60,15 @@ sections:
         align: left
         image: images/Screen Shot 2021-03-31 at 18.22.11.png
         image_alt: Feature 3 placeholder image
+        image_position: left
+        actions: []
+      - title: Get up and running quickly
+        content: >
+          Five minutes or less. No joke. One form and you're ready to go. We are
+          also available for any questions you may have.
+        align: left
+        image: images/shoutout Logo (2).png
+        image_alt: Feature 1 placeholder image
         image_position: left
         actions: []
   - title: Start your first campaign now
