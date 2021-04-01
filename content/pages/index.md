@@ -87,9 +87,6 @@ sections:
         actions: []
         type: feature
     type: features_section
-  - title: lorem-ipsum
-    team: []
-    type: team_section
 seo:
   title: Shoutouts
   description: Run scaled micro-influencer campaigns in five minutes or less
