@@ -67,7 +67,6 @@ sections:
             style: secondary
   - type: cta_section
     title: Start your campaign today.
-    subtitle: Create a campaign
     actions:
       - label: Learn More
         url: /features
