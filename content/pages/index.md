@@ -67,7 +67,7 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: lorem-ipsum
+  - title: How Shoutouts Works
     team:
       - content/data/team/person-k4id0fq63.json
       - content/data/team/person-rpu5rtz8j.json
