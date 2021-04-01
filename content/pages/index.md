@@ -36,7 +36,7 @@ sections:
     has_background: true
     background_color: gray
   - type: features_section
-    title: How does this work?
+    title: Why Shoutouts?
     features:
       - title: Create a Shoutouts Campaign
         content: >
