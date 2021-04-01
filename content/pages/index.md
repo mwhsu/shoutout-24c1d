@@ -27,7 +27,7 @@ sections:
       - title: Fill out the campaign wizard
         content: >
           Create a campaign by letting us know exactly what you need - Goals,
-          Budget, Timeline and Target Demographic,
+          Budget, Timeline and Target Demographic.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
