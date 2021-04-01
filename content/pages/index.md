@@ -67,9 +67,7 @@ sections:
             style: secondary
   - type: cta_section
     title: Start your campaign today.
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Create a campaign
     actions:
       - label: Learn More
         url: /features
