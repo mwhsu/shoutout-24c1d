@@ -49,10 +49,7 @@ sections:
         image: images/christiann-koepke-vCaTPkYjWOo-unsplash.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: Review and celebrate the results
         content: >
           Watch your branded content come through and review the key metrics for
