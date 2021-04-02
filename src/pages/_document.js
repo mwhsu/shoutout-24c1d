@@ -14,14 +14,14 @@ class MyDocument extends Document {
         return (
             <Html>
                 <Head>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FY7XJ61B78"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-FY7XJ61B78"></script>
+            <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
 
-  gtag('config', 'G-FY7XJ61B78');
-</script>
+            gtag('config', 'G-FY7XJ61B78');
+            </script>
                 </Head>
                 <body>
                     <Main />
