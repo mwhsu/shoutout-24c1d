@@ -13,7 +13,7 @@ class MyDocument extends Document {
     render() {
         return (
             <Html>
-                <Head />
+                <Head></Head> />
                 <body>
                     <Main />
                     <ScriptTag src={withPrefix('js/init.js')}/>
