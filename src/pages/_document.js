@@ -15,7 +15,6 @@ class MyDocument extends Document {
             <Html>
                 <Head>
                     <script src="https://embed.small.chat/TUPCBDX36C01TWQNNW64.js" async></script>
-                     <ScriptTag src={withPrefix('js/tawk.js')}/>     
                 </Head>
                 <body>
                     <Main />
