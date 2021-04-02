@@ -24,5 +24,4 @@
 }();
 drift.SNIPPET_VERSION = '0.3.1';
 drift.load('e7ia3xabzubd');
-</script>
 <!-- End of Async Drift Code -->
