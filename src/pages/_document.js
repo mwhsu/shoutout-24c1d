@@ -14,7 +14,7 @@ class MyDocument extends Document {
         return (
             <Html>
                 <Head>
-                <ScriptTag src={withPrefix('js/tawk.js')}/> 
+                <ScriptTag src={withPrefix('js/tawk.js')}/>     
                 </Head>
                 <body>
                     <Main />
