@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       Shoutouts is the fastest way to start your campaign. We jump-start any
       campaign by finding, managing and paying influencers to shoutout your
-      brand.aoeuaoeuoaes
+      brand.
     actions:
       - label: Start a campaign
         url: /contact
