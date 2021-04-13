@@ -37,17 +37,13 @@ sections:
     has_background: true
     background_color: gray
   - title: lorem-ipsum
-    content: >-
+    content: |
       ## Lorem ipsum
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      *   aoeuaoeuaoeuaoeuaoeuaaoeaoeuaoeuaoeuaoeuaoeLorem ipsum
+      *   dolor sit amet
     type: content_section
   - type: features_section
     title: Why Shoutouts?
